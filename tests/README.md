@@ -1,1 +1,1 @@
-I simply added this because GitHub does not allow for truly empty directories.
+All tests should be placed within the subdirectories within this 'tests' directory.
